@@ -1,2 +1,2 @@
 # SentiEYE
-Here shows the code for paper - SentiEYE: An Eye-Based Sentiment Analysis Framework via Graph Neural Network
+Here shows the code for paper - SEMGraph: Incorporating Sentiment Knowledge and Eye Movement into Graph Model for Sentiment Analysis
